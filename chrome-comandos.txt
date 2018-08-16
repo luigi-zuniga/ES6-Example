@@ -1,0 +1,16 @@
+#abrir un archivo desde el navegador
+ctrl + o
+
+#Abrir consola 
+alt + CMD + i (MAC)
+Ctrl + F12 (PC)
+
+Vscode
+#alternacion de espacios en blanco. para ver identaciones en el codigo
+CMD + Shift + P <-- abre paleta de comandos
+
+#copia el texto en la siguiente linea
+alt + shift + flecha abajo
+
+
+ 
