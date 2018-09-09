@@ -18,5 +18,9 @@ gulp.task('es6', () => {
  gulp.src('./es6/*.js')
     //Metodo pipe , pasa los pluglin (o datos ) de uno a otro
     .pipe(babel())
-    .pipe(gulp.dest('./es5'))
-})
+    .pipe(gulp.dest('./es5'));
+});
+
+gulp.task('default', () => {
+    gulp.watch('./es6/*.js',gulp.series('es6'));
+});

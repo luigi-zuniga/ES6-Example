@@ -13,4 +13,8 @@ CMD + Shift + P <-- abre paleta de comandos
 alt + shift + flecha abajo
 
 
+#instalar node , gulp, babel
+
+
+
  
